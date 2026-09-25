@@ -1,7 +1,9 @@
 # Hospital Emergency Room Analysis
 
 An Excel analysis of emergency room visits, wait times, department referrals, and patient satisfaction. The workbook includes the source table, supporting pivot summaries, and a dashboard.
+## Dashboard Preview
 
+![Hospital ER Dashboard](hospital_er_dashboard.png)
 ## Project snapshot
 
 | Measure | Result |
