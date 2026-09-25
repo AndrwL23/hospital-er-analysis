@@ -48,7 +48,26 @@ Open [hospital-er-analysis.xlsx](hospital-er-analysis.xlsx) in Microsoft Excel t
 - Blank satisfaction cells mean **no score recorded** and are excluded from the satisfaction average. A recorded zero is a valid score.
 - The meaning of `Patient Admin Flag` is not documented in the supplied data, so this project does not interpret it as an admission or discharge outcome.
 - This is a portfolio analysis of a publicly shared dataset, not evidence about the performance of a real hospital. Patient IDs and names are present in the source workbook; avoid treating them as verified real patient details.
+## Tools Used
 
+- Microsoft Excel
+- PivotTables
+- PivotCharts
+- Data cleaning
+- Data visualization
+- Dashboard design
+
+## Key Insights
+
+- Analyzed 9,216 emergency room visits.
+- Average patient wait time was 35.3 minutes.
+- 58.6% of visits had no department referral.
+- General Practice was the most common referral department with 1,840 visits.
+- Satisfaction scores were recorded for 2,517 visits, or 27.3% of the dataset.
+
+## Data Source
+
+Dataset: Hospital Emergency Room Dataset from Kaggle.
 ## Source
 
 [Hospital Emergency Room Dataset on Kaggle](https://www.kaggle.com/datasets/drnimishadavis/hospital-emergency-room-dataset). Credit for the source dataset belongs to its Kaggle publisher. The analysis workbook in this repository is the project deliverable.
